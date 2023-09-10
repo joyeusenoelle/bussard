@@ -7,7 +7,7 @@
 
 * You may use this code, or any portion of it, in your own works. 
 * If you do so, you MUST:
-* * Give credit to the original author.
-* * Make the source code of the work that incorporates this code freely available.
+** Give credit to the original author.
+** Make the source code of the work that incorporates this code freely available.
 * If you do so, you MAY:
-* * Make your project commercially available (i.e. charge money for it).
+** Make your project commercially available (i.e. charge money for it).
