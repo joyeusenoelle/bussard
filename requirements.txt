@@ -1,0 +1,5 @@
+defusedxml==0.7.1
+feedparser==6.0.10
+opyml==0.1.1
+psycopg2-binary==2.9.9
+sgmllib3k==1.0.0
