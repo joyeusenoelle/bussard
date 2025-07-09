@@ -2,7 +2,7 @@
 
 is an RSS aggregator and (eventually) reader. Right now it just aggregates, and it doesn't do that well.
 
-The intent is to build a Django-based system that will regularly pull in the content from RSS feeds, update the database with the new items, and then display either only unseen items or all items, depending on what the user selects. I'm using Django because it's what I use at work, and I like getting practice outside the work environment.
+The intent is to build a FastAPI-based system that will regularly pull in the content from RSS feeds, update the database with the new items, and then display either only unseen items or all items, depending on what the user selects. I'm using FastAPI because it's what we're moving to at work, and I like getting practice outside the work environment.
 
 ## The name
 
